@@ -1,0 +1,51 @@
+# Progtetelek
+
+1. feladat: Kiszámoltam az osztály átlagát a tanulók egyéni átlagai alapján
+2. feladat: Betűket egyetlen szöveggé összefűztem
+3. feladat: Programot készítettem, ami az első N természetes szám összegét számolja ki
+4. feladat: Ellenőriztem, hogy minden jegy ötös-e a tanulónak, vagyis kitűnő-e
+5. feladat: Egy ellenőrzést készítettem, ami azt állapítja meg, hogy a megadott szó nap neve-e
+6. feladat: Megnéztem, csökkentek-e folyamatosan a szeptemberi hőmérsékleti adatok
+7. feladat: Kerestem a sorozatban az első olyan számot, ami osztható kilenccel
+8. feladat: Megkerestem, hányadik hónapról van szó a hónap neve alapján
+9. feladat: Megkerestem Lukács névnapját októberben, hogy hányadikán van
+10. feladat: Az Aranybulla kiadásának évét kerestem meg a történelmi évszámok között
+11. feladat: Egy olyan számot kerestem a sorozatból, ami kisebb mínusz ötnél
+12. feladat: Kerestem egy olyan napot, amikor az üzletnek nem volt nyeresége
+13. feladat: Kerestem egy HÉV érkezési időpontot, ami fél nyolc és háromnegyed nyolc közé esik
+14. feladat: Megszámoltam, hány szám kisebb a megadott értéknél
+15. feladat: Kiszámoltam a diákok százalékát, akik elérték az ötös szintet
+16. feladat: Megkerestem a magánhangzók számát A Tisza című vers első versszakában
+17. feladat: Összehasonlítottam a két versszak magánhangzóinak számát, melyikben van több
+18. feladat: Kiszámoltam, hány család él a létminimum alatt a létszámuk és jövedelmük alapján
+19. feladat: Megkerestem az osztály legalacsonyabb tanulóját
+20. feladat: Kiszámoltam a havi megtakarításokat, és megkerestem, melyik hónapban sikerült a legtöbbet félretenni
+21. feladat: Beolvastam egy számsorozatot, majd megkerestem a legkisebb és legnagyobb számot benne
+22. feladat: Megkerestem, hány egy-, két-, három- és négyjegyű szám található a sorozatban
+23. feladat: Megkerestem az e betű előfordulásainak számát a megadott mondatban
+24. feladat: Megkerestem, hányszor vásároltam 5000 Ft felett a múlt hónapban
+25. feladat: Megkerestem, hány kutya szerzett 20 pontnál kevesebbet az első fordulóban
+26. feladat: Megkerestem, hány szó kezdődik B betűvel a listában
+27. feladat: Ellenőriztem, hogy a Duna hőmérséklete minden nap emelkedett-e
+28. feladat: Kerestem az egyik ötös matematika dolgozatot az osztály jegyei közül
+29. feladat: Megkerestem Mária névnapját januárban, hogy melyik napon van
+30. feladat: Kiválasztottam a legmagasabb hegyet a listából
+31. feladat: Megkerestem, hányszor volt fagypont alatt a hőmérséklet
+32. feladat: Ellenőriztem, volt-e 9,2 méteres vízállás a Dunán
+33. feladat: Megnéztem, van-e a listában 20 000 Ft-nál olcsóbb processzor
+34. feladat: Ellenőriztem, kihúzták-e az 55-ös lottószámot
+35. feladat: Megnéztem, megtalálható-e az Egri csillagok a könyvtár könyvei között
+36. feladat: Ellenőriztem, szerepel-e Nagy József a mai véradók listáján
+37. feladat: Elkészítettem a programot, ami egy megadott szám faktoriálisát számolja ki
+38. feladat: A receptben szereplő alapanyagokat és azok árait felhasználva kiszámoltam az étel teljes nyersanyagköltségét
+39. feladat: Megkerestem az első nulla után következő negatív számokat a vektorban
+40. feladat: Megkerestem az „a" névelő előfordulásainak számát a megadott szövegben
+41. feladat: Megkerestem a szövegben a mondatok számát, és azt, hány szó van bennük
+42. feladat: Megkerestem a rendezett vektorban a különböző értékek számát
+43. feladat: Külön megkerestem a negatív, nulla és pozitív számokat a vektorban
+44. feladat: Megvizsgáltam a szavak hangrendjét, és megkerestem a magas, mély és vegyes hangrendűeket
+45. feladat: Ellenőriztem a helyjegyek alapján, van-e még szabad hely az IC vonaton
+46. feladat: Megvizsgáltam a mérések alapján, átrepültünk-e tenger illetve sziget felett
+47. feladat: Megkerestem, kinek van a leghosszabb neve az osztályban
+48. feladat: Megkerestem a folyó mely részén a legmeredekebb a meder
+49. feladat: Kiszámoltam a versenyzők teljes idejét az indulási és érkezési időkből, majd megkerestem a győztest
